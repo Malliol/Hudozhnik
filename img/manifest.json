@@ -1,0 +1,71 @@
+{
+ "sketches": [
+  "sketches-01.jpg",
+  "sketches-02.jpg",
+  "sketches-03.jpg",
+  "sketches-04.jpg",
+  "sketches-05.jpg",
+  "sketches-06.jpg",
+  "sketches-07.jpg",
+  "sketches-08.jpg",
+  "sketches-09.jpg",
+  "sketches-10.jpg",
+  "sketches-11.jpg",
+  "sketches-12.jpg",
+  "sketches-13.jpg",
+  "sketches-14.jpg",
+  "sketches-15.jpg",
+  "sketches-16.jpg",
+  "sketches-17.jpg",
+  "sketches-18.jpg",
+  "sketches-19.jpg",
+  "sketches-20.jpg",
+  "sketches-21.jpg",
+  "sketches-22.jpg",
+  "sketches-23.jpg"
+ ],
+ "street": [
+  "street-01.jpg",
+  "street-02.jpg",
+  "street-03.jpg",
+  "street-04.jpg",
+  "street-05.jpg",
+  "street-06.jpg"
+ ],
+ "cassettes": [
+  "cassettes-01.jpg",
+  "cassettes-02.jpg",
+  "cassettes-03.jpg",
+  "cassettes-04.jpg",
+  "cassettes-05.jpg",
+  "cassettes-06.jpg",
+  "cassettes-07.jpg"
+ ],
+ "bg": [
+  "bg-01.jpg",
+  "bg-02.jpg",
+  "bg-03.jpg",
+  "bg-04.jpg",
+  "bg-05.jpg",
+  "bg-06.jpg",
+  "bg-07.jpg",
+  "bg-08.jpg",
+  "bg-09.jpg",
+  "bg-10.jpg"
+ ],
+ "tsoy": [
+  "tsoy-01.jpg",
+  "tsoy-02.jpg",
+  "tsoy-03.jpg"
+ ],
+ "photo": [
+  "photo-01.jpg",
+  "photo-02.jpg",
+  "photo-03.jpg",
+  "photo-04.jpg",
+  "photo-05.jpg",
+  "photo-06.jpg",
+  "photo-07.jpg",
+  "photo-08.jpg"
+ ]
+}
